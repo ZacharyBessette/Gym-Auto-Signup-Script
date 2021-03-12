@@ -1,0 +1,24 @@
+Possible times:
+-7:00am
+-8:30am
+-10:00am
+-11:30am
+-1:00pm
+-2:30pm
+-4:00pm
+-5:30pm
+-7:00pm
+-8:30pm
+
+For anyone looking to book a time have it look exactly like this (minus the quotation marks)
+
+"year-month-day timeslot"
+or
+"2002-03-12 1:00pm"
+
+2020-11-19 8:30pm
+2020-11-20 10:00am
+2020-11-23 10:00am
+2020-11-24 10:00am
+2020-11-25 10:00am
+2020-11-27 10:00am
