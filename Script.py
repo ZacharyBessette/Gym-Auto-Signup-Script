@@ -10,9 +10,9 @@ import time
 -Nice UI and presentation for reservations
 '''
 
-user_email_address = "zacharybessette1619@gmail.com"
-user_password = "Command7"
-reservation_directory_path = "D:/Documents/Fit 4 Less Auto Signup/Gym reservations.txt"
+user_email_address = "Enter Email here"
+user_password = "Enter Password here"
+reservation_directory_path = "Enter file path of gym reservation text file"
 
 
 # Finds date 2 days in the future, in year-month-day format (without showing the time of day)
